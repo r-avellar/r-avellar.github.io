@@ -1,2 +1,2 @@
 # r-avellar.github.io
-Currículo do Jornada Dev
+Currículo  pessoal desenvolvido durante o do Jornada Dev da EBAC, utilizando HTML e CSS
